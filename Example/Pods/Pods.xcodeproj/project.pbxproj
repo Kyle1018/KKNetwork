@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		01B1BBEBB062EE1731F8B4DF96EBD6C1 /* Pods-KKNetwork_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B8796064DFC90846F0ACB3E71541B28 /* Pods-KKNetwork_Example-dummy.m */; };
 		0C71250441C8247DEFE2C6D67BFBE049 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
-		27D3DE801D95040300D24424 /* KKNetwork.h in Headers */ = {isa = PBXBuildFile; fileRef = 27D3DE7F1D95040300D24424 /* KKNetwork.h */; };
+		27D3DE821D9507C700D24424 /* KKNetwork.h in Headers */ = {isa = PBXBuildFile; fileRef = 27D3DE811D9507C700D24424 /* KKNetwork.h */; };
 		35D30FDB6FC9161808E9E94E5E7D7B7C /* KKNetwork-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FD34178951F52F894882B283D6B5FCB0 /* KKNetwork-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AF23D76C12A5CA18E2B5FB3C7D35062 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
 		6BC1FDCA484EEBF2E0F117C0EFE8E0C9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
@@ -35,7 +35,7 @@
 		0C1569DCFA16A09EE6B47A495D8CE65F /* Pods-KKNetwork_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KKNetwork_Tests-resources.sh"; sourceTree = "<group>"; };
 		108591BB1B7EC27FCEEF04BE26633C1F /* Pods-KKNetwork_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KKNetwork_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		21CD2E44D6A390162251C9261E3155AB /* Pods-KKNetwork_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-KKNetwork_Example-umbrella.h"; sourceTree = "<group>"; };
-		27D3DE7F1D95040300D24424 /* KKNetwork.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KKNetwork.h; sourceTree = "<group>"; };
+		27D3DE811D9507C700D24424 /* KKNetwork.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KKNetwork.h; sourceTree = "<group>"; };
 		4AE5D35B6AC8A09C0E86E072C252765B /* Pods-KKNetwork_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KKNetwork_Example-frameworks.sh"; sourceTree = "<group>"; };
 		4B8796064DFC90846F0ACB3E71541B28 /* Pods-KKNetwork_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KKNetwork_Example-dummy.m"; sourceTree = "<group>"; };
 		4BFFAB975A941AEF8E82C13D6FE30895 /* Pods-KKNetwork_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KKNetwork_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -147,7 +147,7 @@
 		7D95A3B1AB07693C1A279C3217B90096 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				27D3DE7F1D95040300D24424 /* KKNetwork.h */,
+				27D3DE811D9507C700D24424 /* KKNetwork.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -238,7 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				35D30FDB6FC9161808E9E94E5E7D7B7C /* KKNetwork-umbrella.h in Headers */,
-				27D3DE801D95040300D24424 /* KKNetwork.h in Headers */,
+				27D3DE821D9507C700D24424 /* KKNetwork.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

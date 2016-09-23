@@ -143,8 +143,6 @@
             self.requestSuccess([self buildModelWithJsonDictionary:responseObject], nil);
             self.requestSuccess = nil;
         }
-    } else {
-        DDLogError(@"responseObject不为dictionary");
     }
 }
 

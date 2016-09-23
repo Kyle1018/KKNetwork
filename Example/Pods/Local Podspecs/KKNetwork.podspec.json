@@ -1,6 +1,6 @@
 {
   "name": "KKNetwork",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "网络库封装",
   "description": "针对http请求，文件上传、下载等功能的基础封装",
   "homepage": "https://github.com/Kyle1018",
@@ -13,12 +13,12 @@
   },
   "source": {
     "git": "https://github.com/Kyle1018/KKNetwork.git",
-    "tag": "0.0.2"
+    "tag": "0.0.3"
   },
   "platforms": {
     "ios": "7.0"
   },
-  "source_files": "KKNetwork/Classes/*.{h,m}",
+  "source_files": "KKNetwork/Classes/*.{h,m}, KKNetwork/Classes/Http/*.{h,m}",
   "dependencies": {
     "AFNetworking": [
       "~> 3.1.0"

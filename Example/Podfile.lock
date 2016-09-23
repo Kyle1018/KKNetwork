@@ -15,7 +15,7 @@ PODS:
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
   - JSONModel (0.13.0)
-  - KKNetwork (0.0.1):
+  - KKNetwork (0.0.2):
     - AFNetworking (~> 3.1.0)
     - JSONModel (~> 0.13.0)
 
@@ -29,7 +29,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   JSONModel: 5a431961fd11a46840b17cc2bf5ba0b31d210fb3
-  KKNetwork: 8fc3c9d81ae5f84918e591f90a5836bf17185bba
+  KKNetwork: 0ad539e634e9de9c41ebb1c234b62b39176db12e
 
 PODFILE CHECKSUM: 65c52ad7959ed02fc88a722bd873feb39c553c3c
 

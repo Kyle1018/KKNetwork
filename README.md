@@ -22,7 +22,7 @@ pod "KKNetwork"
 
 ## Author
 
-linkun, linkun@didichuxing.com
+linkun, 419552038@qq.com
 
 ## License
 

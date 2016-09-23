@@ -8,5 +8,5 @@ Pod::Spec.new do |s|
   s.author           = { 'linkun' => '419552038@qq.com' }
   s.source           = { :git => 'https://github.com/Kyle1018/KKNetwork.git', :tag => s.version.to_s }
   s.ios.deployment_target = '7.0'
-  s.source_files = 'KKNetwork/Classes/x.{h,m}'
+  s.source_files = 'KKNetwork/Classes/*.{h,m}'
 end

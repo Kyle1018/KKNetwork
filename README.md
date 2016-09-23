@@ -1,6 +1,6 @@
 # KKNetwork
 
-[![CI Status](http://img.shields.io/travis/linkun/KKNetwork.svg?style=flat)](https://travis-ci.org/linkun/KKNetwork)
+[![CI Status](http://img.shields.io/travis/Kyle/KKNetwork.svg?style=flat)](https://travis-ci.org/Kyle/KKNetwork)
 [![Version](https://img.shields.io/cocoapods/v/KKNetwork.svg?style=flat)](http://cocoapods.org/pods/KKNetwork)
 [![License](https://img.shields.io/cocoapods/l/KKNetwork.svg?style=flat)](http://cocoapods.org/pods/KKNetwork)
 [![Platform](https://img.shields.io/cocoapods/p/KKNetwork.svg?style=flat)](http://cocoapods.org/pods/KKNetwork)
@@ -22,7 +22,7 @@ pod "KKNetwork"
 
 ## Author
 
-linkun, 419552038@qq.com
+Kyle, 419552038@qq.com
 
 ## License
 

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KKNetwork_Example' do
+  pod 'KKNetwork', :path => '../'
+
+  target 'KKNetwork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

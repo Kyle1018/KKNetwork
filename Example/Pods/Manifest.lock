@@ -1,0 +1,16 @@
+PODS:
+  - KKNetwork (0.1.0)
+
+DEPENDENCIES:
+  - KKNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  KKNetwork:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KKNetwork: 869c5f9be6225732c48c76ef40cb9562f20c59fd
+
+PODFILE CHECKSUM: 65c52ad7959ed02fc88a722bd873feb39c553c3c
+
+COCOAPODS: 1.0.0

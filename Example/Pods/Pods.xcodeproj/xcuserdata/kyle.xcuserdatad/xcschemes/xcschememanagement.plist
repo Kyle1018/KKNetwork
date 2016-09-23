@@ -4,7 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>KKNetwork.xcscheme</key>
+		<key>AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>JSONModel.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -22,17 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>752B00AA809789A350C375BC855E6F80</key>
+		<key>1C3436CEA5C3D39764C5F54374794ECB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ABFA72D4CC5A81CF1ACB4A5A574E11E9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AE1A256863067A5107961D380088C093</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>EEDEDD4CEA471D0A618E6310C66176F2</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>FF035259B5F1BBAF83E7FAB9B0796936</key>
 		<dict>
 			<key>primary</key>
 			<true/>

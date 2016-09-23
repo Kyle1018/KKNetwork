@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '752B00AA809789A350C375BC855E6F80'
-               BlueprintName = 'KKNetwork'
+               BlueprintIdentifier = 'ABFA72D4CC5A81CF1ACB4A5A574E11E9'
+               BlueprintName = 'JSONModel'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'KKNetwork.framework'>
+               BuildableName = 'JSONModel.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
